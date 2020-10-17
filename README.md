@@ -18,6 +18,9 @@ Software:
 
 The history of software in relation to memory and storage can be very confusing, because there is no fine line stating when software was introduced into the hardware aspect of memory and storage. However drivers are a common software that is necessary for the full use of your memory or storage.
 
+Conclusion:
+
+Through this assignment I learned that computers have gone through many different iterations in the over 70 years that they have been in existence. Through those many years computers have gone from very basic computational devices to very complex machines capable of high level computations and much more. I was surprised to see some of the early processes used by computers because they may seem so archaic today, but at the time, these processes were highly advanced. 
 
 Citations:
 
